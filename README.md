@@ -1,5 +1,3 @@
-# RoSenCoLab README.md
-
 # RoSenCoLab Website Repository
 
 Welcome to the Robotics and Sensorimotor Control Laboratory (RoSenCoLab) website repository. This repository contains all the source code and assets used to build and maintain the lab’s official website.
