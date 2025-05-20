@@ -12,17 +12,20 @@ The Robotics and Sensorimotor Control Laboratory focuses on investigating sensor
 
 ## Repository Structure
 
-- `index.html` — Main homepage
+- `about/` — Folder for General HTML Files
+- `css/` — Stylesheets for website design
+- `directions/` — Folder for Direction HTML Files
+- `images/` — Images and graphical assets
+- `js/` — JavaScript files for interactive features
+
 - `directions.html` — Directions to Various Lab Spaces
 - `giving.html` — Philanthropy Information
+- `index.html` — Main Homepage
 - `joinus.html` — Information for Potential Students
 - `news.html` — Past and Current News on the Lab
-- `people.html` — Information about the lab and team
-- `research.html` — Past and Current research projects
+- `people.html` — Information about the Team
 - `publications.html` — Past and Current Publications
-- `css/` — Stylesheets for website design
-- `js/` — JavaScript files for interactive features
-- `images/` — Images and graphical assets
+- `research.html` — Past and Current Research Projects
 
 ---
 
@@ -30,7 +33,7 @@ The Robotics and Sensorimotor Control Laboratory focuses on investigating sensor
 
 To view the website locally:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine/device.
 2. Open `index.html` in your preferred web browser.
 
 For development, you can use live-server extensions or tools to preview changes in real time.
