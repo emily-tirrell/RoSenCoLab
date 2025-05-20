@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3HKRHVBXSN"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-3HKRHVBXSN');
+    </script>
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" />
+    <link href="default.css" rel="stylesheet" type="text/css" media="all" />
+    <title>Join Us - Robotics and Sensorimotor Control Laboratory</title>
+</head>
+<body>
+
+<div id="header-wrapper">
+    <div id="header" class="container">
+        <div id="logo">
+            <h1>Robotics And Sensorimotor Control Laboratory</h1>
+        </div>
+        <div id="menu">
+            <ul>
+                <li><a href="index.html" accesskey="1" title="">Home</a></li>
+                <li class="dropdown">
+                    <a href="research.html" class="dropbtn">Research</a>
+                    <div id="researchDropdown" class="dropdown-content">
+                        <div class="dropdown-submenu">
+                            <a href="research.html#current" class="subdropbtn">Current Research</a>
+                            <div class="sub-menu">
+                                <a href="research.html#sr">Development of a Stroke Registry</a>
+                                <a href="research.html#students">Educating Students on the Lived Brain Injury Experience</a>
+                                <a href="research.html#device">Haptic Device Development for Clinical Assessments</a>
+                                <a href="research.html#neuroimaging">Brain Neuroimaging for Stroke</a>
+                                <a href="research.html#peripheralnerve">Peripheral Nerve Signaling</a>
+                                <a href="research.html#lateralization">Hemispheric Lateralization and Tactile Perception</a>
+                            </div>
+                        </div>
+                        <div class="dropdown-submenu">
+                            <a href="research.html#pastresearch" class="subdropbtn">Past Research</a>
+                            <div class="sub-menu">
+                                <a href="research.html#adults">Sensorimotor Control in Adults and Individuals with Stroke</a>
+                                <a href="research.html#sensorimotor">Development of Sensorimotor Control in Children</a>
+		                        <a href="research.html#cognition">The Role of Cognition on Tactile Perception</a>
+                                <a href="research.html#haptic">Haptic Device Development</a>
+                                <a href="research.html#substitution">Sensory Substitution</a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="publications.html" accesskey="3" title="">Publications</a></li>
+                <li class="dropdown">
+                    <a href="people.html" class="dropbtn">People</a>
+                    <div id="peopleDropdown" class="dropdown-content">
+                        <a href="people.html#pi">Principal Investigator</a>
+                        <a href="people.html#students">Students</a>
+                        <a href="people.html#staff">Staff</a>
+                        <a href="people.html#collaborators">Collaborators</a>
+                        <a href="people.html#alumni">Alumni</a>
+                    </div>
+                </li>
+                <li class="dropdown">
+                    <a href="directions.html" class="dropbtn">Directions</a>
+                    <div id="directionsDropdown" class="dropdown-content">
+                        <a href="directions.html">Robotics and Sensorimotor Control Laboratory</a>
+                        <a href="directions radford.html">Radford University Carilion</a>
+                        <a href="directions fbri.html">Fralin Biomedical Research Institute</a>
+                    </div>
+                </li>
+                <li class="dropdown">
+                    <a href="news.html" class="dropbtn">News</a>
+                    <div id="newsDropdown" class="dropdown-content">
+                        <a href="news.html#news2024">2024</a>
+                        <a href="news.html#news2023">2023</a>
+                        <a href="news.html#news2022">2022</a>
+                        <a href="news.html#news2021">2021</a>
+                        <a href="news.html#news2020">2020</a>
+                        <a href="news.html#news2019">2019</a>
+                    </div>
+                </li>
+                <li><a href="giving.html" accesskey="4" title="">Giving</a></li>
+                <li class="active"><a href="joinus.html" accesskey="5" title="">Join Us</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="featured">&nbsp;</div>
+<div id="wrapper">
+    <div id="page" class="container">
+        <div id="content">
+            <div class="title">
+                <h3>Join Us</h3>
+                <p>Dr. Netta Gurari is currently not accepting any new students.</p>
+                <p>Graduate students with their own funding who wish to join the lab are encouraged to reach out to Dr. Gurari to discuss potential opportunities. Please contact Dr. Gurari at <a href="mailto:gurari@vt.edu">gurari@vt.edu</a> with details of your funding and research interests.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="footer" class="container">
+    <div>
+        <header class="title">
+            <h2>Contact Information</h2>
+        </header>
+        <div id="address" class="container">
+            <div>
+                <header class="title">
+                    <h3>
+                        Virginia Tech
+                        <br>
+                        Biomedical Engineering and Mechanics
+                        <br>
+                        495 Old Turner Street, Blacksburg, VA 24061
+                    </h3>
+                    <br>
+                    <center>
+                        <a href="https://twitter.com/nettagurari?lang=en" class="button2">Social Media</a>
+                    </center>
+                    <center>
+                        <ul class="contact"></ul>
+                    </center>
+                </header>
+                <div id="copyright" class="container">
+                    <p>Copyright &copy; 2024 Netta Gurari. All Rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
