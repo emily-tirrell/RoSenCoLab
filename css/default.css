@@ -245,7 +245,6 @@
 
 	.title2 
 	{
-			margin-top: -1.2em;
 		font-weight: 10000;
 		font-size: 2.5em;
 		color: #000000;
@@ -255,7 +254,6 @@
 
 	.title h2
 	{
-		margin-top: -1.2em;
 		font-weight: 10000;
 		font-size: 2.5em;
 		color: #000000;
@@ -264,7 +262,6 @@
 
 	.title h3
 	{
-		margin-top: -1.5em;
 		font-weight: 10000;
 		font-size: 2.5em;
 		color: #000000;
@@ -273,7 +270,6 @@
 	
 	.title h4
 	{
-		margin-top: -1.5em;
 		font-weight: 600;
 		font-size: 1.5em;
 		color: #8B0000;
@@ -637,7 +633,7 @@
 /*********************************************************************************/
 
 #footer {
-    position: bottom; /* Fixed position to stick to the bottom */
+    position: absolute; /* Fixed position to stick to the bottom */
     bottom: 0; /* Position at the bottom of the viewport */
     left: 0; /* Align to the left edge of the viewport */
     width: 100%; /* Span the whole width */
